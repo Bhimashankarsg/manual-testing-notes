@@ -1,0 +1,58 @@
+Test cases / Test Specification:
+
+Definition : Step by step procedure to test a feature which gives all possible scenarios for one particular requirement is called as ‘Test Case’.
+- Test case will be very brief and detailed consisting of all the navigation steps.
+- Test case consist of header , body and footer.
+
+What are the qualities of good test cases / what are the characteristics of good test cases:
+1.	Test case coverage should be good .
+2.	Test case coverage should be good with less number of steps.
+3.	Test case should be simple to understand.
+4.	The flow or sequence of test case should be good.
+5.	Test case should be written by applying test case design techniques.
+6.	Test case should consist of both positive and negative scenarios.
+7.	Test case should be written in test case template.
+8.	If test case is given to any test engineer he should be able to execute test cases without asking any questions.
+9.	Test case should not have any duplicate.
+10.	Test case should be able to catch defects.
+11.	Test cases should be easy to convert into automation script.
+
+Review Ethics:
+1.	Review the content not the author.
+2.	While reviewing test cases reviewer should spend more time in finding mistakes in the test cases not in giving the solution.
+3.	Once after review is completed and if TL or customer finds any mistakes in test cases then both reviewer and authors are responsible.
+On what basis TL identify the reviewers:
+1.	One who is having very good product knowledge.
+2.	One who is working on the same requirement
+3.	TL can assign test  cases to any TE and can ask them to look into requirement learn the requirement and review the test cases.
+What mistakes TE will find while reviewing test cases?
+1.	We will find wrong scenarios , missing scenarios and duplicate scenarios
+2.	Check whether test case coverage is good or not.
+3.	Check whether test case flow is consistent or not.
+4.	Check whether test cases are written by applying testcase design techniques or not.
+5.	Check whether test cases are written in test case template or not.
+6.	Check whether test case is simple to understand or not.
+7.	Check for the spelling mistakes and sentence formation by looking into the body of test case.
+8.	Chance are there when TE copy paste the test cases we might forget to change the header, to check whether header is relevant or not.
+9.	Check whether in the header all the attribute / fields are present or not.
+10.	Check whether in the header all the attributes are having proper data or not.
+11.	By looking into the body of the test case check whether every step , input and expected result is correct or not.
+12.	Check whether footer is having all the attributes with proper data or not.
+
+How do you convince your manager or customer stating test coverage is good?
+
+1.	I have written my test cases by applying test case design techniques so my test coverage is good.
+2.	I have conducted brain storming meeting after writing test scenarios so my coverage is good.
+3.	I have got my test cases reviewed from other senior and junior test engineer so my test coverage is good.
+4.	I have written my test cases by following procedure to write test cases method.
+5.	I have prepared traceability matrix and ensured that each and every req. has got at least one test case so my test coverage is good.
+6.	I have written test cases for ad-hoc scenarios so my test coverage is good.
+7.	I have spent more time in doing system study and because of that I got very good product knowledge and this helped me to write more no. of test cases.
+8.	While executing test case if you come up with any scenarios and if it is not present in test case I will update so my test coverage will good.
+
+Walk through:
+	It is a meeting where in test engineer will explain test scenarios and test cases to entire testing team get the inputs and update the test case document. This is called walkthrough meeting.
+
+
+
+
